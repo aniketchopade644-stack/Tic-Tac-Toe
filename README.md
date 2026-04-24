@@ -1,2 +1,17 @@
-# Tic-Tac-Toe
-A simple Tic Tac Toe web game where a player competes against the computer using smart AI logic. Built using HTML, CSS, and JavaScript.
+Tic Tac Toe Game 🎮
+A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+
+Features
+Two-player game (Player X & Player O)
+Interactive UI
+Displays winner or draw
+Restart game option
+Technologies Used
+HTML
+CSS
+JavaScript
+How to Run
+Download or clone the repository
+Open index.html in your browser
+Author
+Pushkar Vyas
