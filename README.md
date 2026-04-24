@@ -1,20 +1,20 @@
-Tic Tac Toe Game 🎮
-A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+🎮 Tic Tac Toe
 
-Features
+A simple Tic Tac Toe game where a player plays against the computer.
+
+🚀 Features
 Player (X) vs Computer (O)
 Smart/Random AI
 Win & Draw detection
 Reset option
 
-Technologies Used
+🛠️ Tech Used
 HTML
 CSS
 JavaScript
 
-How to Run
-Download or clone the repository
-Open index.html in your browser
+▶️ How to Run
+Open index.html in browser
 
-Author
+👨‍💻 Author
 Aniket Chopade
